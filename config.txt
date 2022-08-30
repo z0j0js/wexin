@@ -5,19 +5,19 @@
 # 公众号appSecret
 "app_secret": "ecb0e91d7c18aead481b5f59eaf71126",
 # 模板消息id
-"template_id": "JBc2m6u2t9yWVSv-YqP8_t782445-4lruLdE7sQMvgU",
+"template_id": "JxCnOv0AHcY7BMaCSLMClxf_G2C04WbYqjeyxYn9HbM",
 # 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
 "user": ["oFAiw6p6w5DaXJCFpa4fxyx0gMEQ"],
 
 # 信息配置
 # 所在省份
-"province": "重庆",
+"province": "广东",
 # 所在城市
-"city": "重庆",
+"city": "珠海",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
 "birthday1": {"name": "宝宝", "birthday": "r2000-06-01"},
 # 生日2
 "birthday2": {"name": "宝贝", "birthday": "r1999-08-18"},
 # 在一起的日子，格式同上
-"love_date": "2022-01-01"
+"love_date": "2018-02-10"
 }
